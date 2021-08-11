@@ -3,16 +3,11 @@ The ToDo app uses the following technologies and javascript libraries:
 * MongoDB
 * Express.js
 * Node.js
-* express-handlebars
-* method-override
-* connect-flash
-* express-session
 * mongoose
-* bcryptjs
 * passport
 
 ## What is this?
-A simple todo app. Based on the tutorial session of Brad Traversy.
+A simple todo app.
 
 ## How can I try it?
 Demo: https://secret-reef-33032.herokuapp.com
@@ -26,4 +21,3 @@ You can register with your email address, and you can create ToDo items. You can
 * Commenting ToDo items
 * Storing and managing history of ToDo items
 
-###### This project is licensed under the MIT Open Source License
